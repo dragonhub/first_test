@@ -1,8 +1,7 @@
-大标题
+STUDY GIT COMMOND
 ==============================
 
-中标题
+提交
 ------------
-git is a version control system
-git is  free software
-I will learning git and github in here  haha
+git add *  / git add filename
+git commit -m 'comment'  这里如果不加-m，git将会调到一个文本编辑器（通常是vim）来让你输入提交的描述信息。
